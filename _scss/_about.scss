@@ -1,0 +1,30 @@
+.about {
+	width:100%;
+	min-height: 600px;
+	background-color: #314862;
+	position:relative;
+	display:table;
+	h1 {
+		text-align:center;
+		color:white;
+		margin:auto;
+		padding-bottom:$medium-space;
+	}
+	p {
+		color:white;
+		font-family: proxima nova;
+		font-size: 1.5em;
+		text-align: center;
+	}
+}
+
+.about-content {
+	display:table-cell;
+	vertical-align: middle;
+}
+
+.about-copy {
+	max-width: 960px;
+	horizontal-align:center;
+	margin:0 auto;
+}

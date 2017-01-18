@@ -1,0 +1,24 @@
+.gallery {
+	width:100%;
+	height:600px;
+}
+
+.shots,
+.attachments {
+	list-style: none;
+	padding: 0;
+}
+.shots li,
+.attachments li {
+	float: left;
+	width: 25%;
+}
+.shots img,
+.attachments img {
+	display: block;
+	width: 100%;
+}
+.shots a,
+.attachments a {
+	display: block;
+}

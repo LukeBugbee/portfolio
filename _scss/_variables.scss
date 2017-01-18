@@ -1,0 +1,42 @@
+// Our variables
+$base-font-family: "Proxima Nova", Helvetica, Arial, sans-serif;
+$base-font-size:   16px;
+$base-font-weight: 400;
+$small-font-size:  $base-font-size * 0.875;
+$base-line-height: 1.5;
+
+$small-space:     30px;
+$medium-space:     60px;
+$big-space:     100px;
+
+$text-color:       #111;
+$background-color: #fdfdfd;
+$brand-color:      #2a7ae2;
+
+$grey-color:       #828282;
+$grey-color-light: lighten($grey-color, 40%);
+$grey-color-dark:  darken($grey-color, 25%);
+
+// Width of the content area
+$content-width:    800px;
+
+$on-palm:          600px;
+$on-laptop:        800px;
+
+//colors
+$main-blue: #68B0FD;
+$secondary-blue: #314862;
+$grey: #9B9B9B;
+$main-purple: #554D63;
+$seconday-purple: #D5C9EB;
+$main-brown: #BBB5AF;
+$secondary-brown: #E2DEDB;
+
+//spacing
+
+$spall-space: 30px;
+$medium-space: 60px;
+$large-space: 100px;
+
+
+

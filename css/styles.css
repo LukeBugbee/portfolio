@@ -1,0 +1,27 @@
+
+/* dribbble shots styling */
+
+
+
+
+
+/* Form Styling */
+
+
+
+
+/* Media Queries */
+@media (max-width: 1200px) {
+	
+}
+@media (max-width: 1000px) {
+	
+}
+@media (max-width: 960px) {
+	.about-copy {
+		margin:30px 30px 30px 30px;
+	}
+}
+@media (max-width: 400px) {
+	
+}
